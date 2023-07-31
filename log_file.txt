@@ -1,0 +1,30 @@
+2022-06-27 17-47-40 - tensorflow                     - WARNING - Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0000s vs `on_train_batch_end` time: 0.0026s). Check your callbacks.
+2022-06-27 19-49-46 - tensorflow                     - WARNING - Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0027s vs `on_train_batch_end` time: 0.0030s). Check your callbacks.
+2022-06-28 17-17-18 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-28 17-22-28 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-28 17-49-23 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 10-46-11 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 11-11-04 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 11-17-51 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 11-28-26 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 11-37-35 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 11-39-03 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-29 12-17-42 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 01-34-14 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 11-39-44 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 11-50-38 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 11-54-53 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 11-57-33 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 12-01-13 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 12-04-28 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 12-07-28 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 12-12-09 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 12-18-41 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 13-07-32 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 20-01-20 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 20-01-57 - h5py._conv                     - DEBUG - Creating converter from 3 to 5
+2022-06-30 20-04-34 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 21-18-24 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-06-30 21-23-06 - h5py._conv                     - DEBUG - Creating converter from 3 to 5
+2022-07-19 20-50-57 - h5py._conv                     - DEBUG - Creating converter from 5 to 3
+2022-07-19 20-52-21 - h5py._conv                     - DEBUG - Creating converter from 3 to 5
